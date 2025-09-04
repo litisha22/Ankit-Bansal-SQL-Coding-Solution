@@ -10,9 +10,8 @@ This repository contains a structured collection of **SQL assignments and soluti
 
 Each folder includes:
 
-* **Assignment questions** (`.txt` or `.md`)
-* **Solutions** (`.sql` or `.txt`)
-* In some cases, sample data or explanatory notes
+* **Assignment questions** (`.txt`)
+* **Solutions** (`.sql`)
 
 ### 🔹 Day-by-Day Breakdown:
 
